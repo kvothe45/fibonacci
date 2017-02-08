@@ -1,0 +1,6 @@
+c:\users\texas\documents\visual studio 2015\Projects\fibs\fibs\bin\Debug\fibs.exe.config
+c:\users\texas\documents\visual studio 2015\Projects\fibs\fibs\bin\Debug\fibs.exe
+c:\users\texas\documents\visual studio 2015\Projects\fibs\fibs\bin\Debug\fibs.pdb
+c:\users\texas\documents\visual studio 2015\Projects\fibs\fibs\obj\Debug\fibs.csprojResolveAssemblyReference.cache
+c:\users\texas\documents\visual studio 2015\Projects\fibs\fibs\obj\Debug\fibs.exe
+c:\users\texas\documents\visual studio 2015\Projects\fibs\fibs\obj\Debug\fibs.pdb
